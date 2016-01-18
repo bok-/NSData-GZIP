@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "0730"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -9,15 +9,15 @@
          <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
             buildForAnalyzing = "YES"
             hideIssues = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2A58A77C1B00FBEF005FBBC2"
-               BuildableName = "Tests iOS.xctest"
-               BlueprintName = "Tests iOS"
+               BlueprintIdentifier = "E854AD9E1C4C917C003B22A3"
+               BuildableName = "NSDataGZIP.framework"
+               BlueprintName = "NSDataGZIP"
                ReferencedContainer = "container:NSData+GZIP.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -27,29 +27,9 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      codeCoverageEnabled = "YES">
+      shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2A58A77C1B00FBEF005FBBC2"
-               BuildableName = "Tests iOS.xctest"
-               BlueprintName = "Tests iOS"
-               ReferencedContainer = "container:NSData+GZIP.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A58A77C1B00FBEF005FBBC2"
-            BuildableName = "Tests iOS.xctest"
-            BlueprintName = "Tests iOS"
-            ReferencedContainer = "container:NSData+GZIP.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -66,9 +46,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A58A77C1B00FBEF005FBBC2"
-            BuildableName = "Tests iOS.xctest"
-            BlueprintName = "Tests iOS"
+            BlueprintIdentifier = "E854AD9E1C4C917C003B22A3"
+            BuildableName = "NSDataGZIP.framework"
+            BlueprintName = "NSDataGZIP"
             ReferencedContainer = "container:NSData+GZIP.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -84,9 +64,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2A58A77C1B00FBEF005FBBC2"
-            BuildableName = "Tests iOS.xctest"
-            BlueprintName = "Tests iOS"
+            BlueprintIdentifier = "E854AD9E1C4C917C003B22A3"
+            BuildableName = "NSDataGZIP.framework"
+            BlueprintName = "NSDataGZIP"
             ReferencedContainer = "container:NSData+GZIP.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
